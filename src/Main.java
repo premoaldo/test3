@@ -4,5 +4,6 @@ public class Main {
         Person person1 = new Person("Pedro Remoaldo", "Portugal");
 
         System.out.println(person1.getName());
+        System.out.println(person1.getCountry());
     }
 }
